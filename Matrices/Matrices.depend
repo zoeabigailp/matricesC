@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1695922421 source:/home/zoe/Escritorio/Matrices/funciones.c
+	"Funciones.h"
+
+1695922150 /home/zoe/Escritorio/Matrices/Funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1695922473 source:/home/zoe/Escritorio/Matrices/main.c
+	"Funciones.h"
+
